@@ -1,5 +1,7 @@
 # One Fell Swoop
 
-NB: Please do not use this. It will not work without bodging.
+A fork of [davidphilipbarr's Sweep](https://github.com/davidphilipbarr/Sweep), which is itself based on the fabulous [Ferris by Pierre Chevalier](https://github.com/pierrechevalier83/ferris).
 
-A fork of [davidphilipbarr's](https://github.com/davidphilipbarr/) [Sweep](https://github.com/davidphilipbarr/Sweep), itself is a version of the fabulous [Ferris](https://github.com/pierrechevalier83/ferris) by [Pierre Chevalier](https://github.com/pierrechevalier83/).
+![](./images/swoop-front.jpg)
+
+![](./images/swoop-back.jpg)

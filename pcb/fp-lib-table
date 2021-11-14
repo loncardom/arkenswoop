@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name "one-fell-swoop")(type "KiCad")(uri "${KIPRJMOD}/../libraries/one-fell-swoop.pretty")(options "")(descr ""))
+  (lib (name "swoop")(type "KiCad")(uri "${KIPRJMOD}/../libraries/swoop.pretty")(options "")(descr ""))
 )

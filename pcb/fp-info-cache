@@ -1,33 +1,96 @@
-8157084382850
-one-fell-swoop
-Choc_reversible
+22906259006528
+swoop
+Battery_pads
+
+
+0
+4
+2
+swoop
+Choc
 Kailh "Choc" PG1350 keyswitch
 kailh,choc
 0
 3
 2
-one-fell-swoop
+swoop
+D3_SMD
+Resitance 3 pas
+R
+0
+6
+2
+swoop
 Ferris_rust_logos
 
 
 0
 0
 0
-one-fell-swoop
+swoop
+M2_hole_4.2mm
+
+
+0
+1
+0
+swoop
+OLED_jumpers
+Connecteur 6 pins
+CONN DEV
+0
+28
+4
+swoop
+Power
+
+
+0
+14
+3
+swoop
 ProMicro_jumpers
 Pro Micro footprint
 promicro ProMicro
 0
 168
 24
-one-fell-swoop
-Reset_reversible
+swoop
+Reset
 Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
 Tactile Switch
 0
 6
 2
-one-fell-swoop
+swoop
+RollerEncoder
+
+
+0
+30
+5
+swoop
+RotaryEncoder
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+swoop
+SK6812_Mini_E
+
+
+0
+12
+4
+swoop
+TRRS-3pin
+
+
+0
+8
+4
+swoop
 TRRS_jumpers
 
 

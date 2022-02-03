@@ -6,9 +6,9 @@
 
   (paper "A4")
   (title_block
-    (title "Swoop MX")
-    (date "2021-12-18")
-    (rev "0.2")
+    (title "Howarya?")
+    (date "2022-02-03")
+    (rev "0.2.1")
     (company "jmnw")
   )
 
@@ -8394,7 +8394,7 @@
     (fp_line (start 5.65 4.699999) (end 5.65 1.1) (layer "B.SilkS") (width 0.15) (tstamp e0f4b64b-b739-484e-ba8e-428dcc3492f8))
     (fp_line (start -4.2 6.4) (end -3 6.4) (layer "B.SilkS") (width 0.4) (tstamp e4dd41f6-eae2-47ad-bcd4-b1bf94667fb9))
     (fp_arc (start 3.016318 1.55) (mid 2.130713 2.910207) (end 0.6 3.45) (layer "B.SilkS") (width 1) (tstamp 3e0ddb44-d2e0-4bda-98d0-0e13a42c4989))
-    (fp_arc (start 5.65 4.699999) (mid 4.993504 6.084925) (end 3.550001 6.6) (layer "B.SilkS") (width 0.15) (tstamp 928981d5-a391-4196-8a01-142037e675d6))
+    (fp_arc (start 5.65 4.699999) (mid 4.993504 6.084924) (end 3.550001 6.6) (layer "B.SilkS") (width 0.15) (tstamp 928981d5-a391-4196-8a01-142037e675d6))
     (fp_arc (start 2.616318 1.121471) (mid 1.868709 2.486118) (end 0.4 3) (layer "B.SilkS") (width 0.15) (tstamp a37f9c2b-d677-49b9-9d8c-d8cbc38ce02b))
     (fp_line (start 4.35 6.6) (end -3.800001 6.6) (layer "F.SilkS") (width 0.15) (tstamp 14abd71a-3eff-442d-8308-3f7cf5251d98))
     (fp_line (start -0.4 3) (end 4.35 3) (layer "F.SilkS") (width 0.15) (tstamp 1552b3de-85c6-4aa4-a04e-0e188b8e565e))
@@ -11096,10 +11096,10 @@
   (gr_arc (start 176.28682 127.767725) (mid 175.829733 131.529076) (end 174.540128 135.091885) (layer "Edge.Cuts") (width 0.05) (tstamp cac6ad83-a1b7-47f4-bc37-6bd30a877d56))
   (gr_line (start 161.817872 157.127673) (end 174.540128 135.091885) (layer "Edge.Cuts") (width 0.05) (tstamp dd6ad2ed-64bc-4dc6-92b2-057cab62fad6))
   (gr_arc (start 172.287011 87.98281) (mid 172.872853 86.568559) (end 174.287148 85.982823) (layer "Edge.Cuts") (width 0.05) (tstamp fb254377-3d79-4125-b2f7-86436e9eb1a8))
-  (gr_text "Swoop MX v0.2\nhttps://github.com/jimmerricks/swoop" (at 168.090207 95.278026 90) (layer "B.SilkS") (tstamp e88f7278-b143-452b-a1d4-66e4330fd5b9)
+  (gr_text "Howarya? v0.2.1\nhttps://github.com/jimmerricks/swoop" (at 168.090207 95.278026 90) (layer "B.SilkS") (tstamp e88f7278-b143-452b-a1d4-66e4330fd5b9)
     (effects (font (size 0.8 0.8) (thickness 0.1)) (justify left mirror))
   )
-  (gr_text "Swoop MX v0.2\nhttps://github.com/jimmerricks/swoop" (at 168.090203 119.338026 90) (layer "F.SilkS") (tstamp b698f703-3661-41ff-9dd4-1a92a17d5c89)
+  (gr_text "Howarya? v0.2.1\nhttps://github.com/jimmerricks/swoop" (at 168.090203 119.338026 90) (layer "F.SilkS") (tstamp b698f703-3661-41ff-9dd4-1a92a17d5c89)
     (effects (font (size 0.8 0.8) (thickness 0.1)) (justify left))
   )
 

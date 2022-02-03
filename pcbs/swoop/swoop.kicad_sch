@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "One Fell Swoop")
-    (date "2022-02-02")
-    (rev "0.4")
+    (title "Swoop")
+    (date "2022-02-03")
+    (rev "0.4.1")
     (company "jmnw")
   )
 

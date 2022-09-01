@@ -29,6 +29,12 @@ jobs:
           pcb_file: ./pcbs/swoop/swoop.kicad_pcb
           pngs_dir: ./images/exports/
 
+      # UPLOAD ARTIFACTS
+      - uses: actions/upload-artifact@v3
+        with:
+          name: images
+          path: ./images/exports/*
+
       # UPDATE GALLERY
       # - name: Update gallery
       #   uses: stefanzweifel/git-auto-commit-action@v4.14.1

@@ -22,18 +22,18 @@ jobs:
         uses: ./.github/actions/export-pngs
         with:
           pcb_file: ./pcbs/howarya/howarya.kicad_pcb
-          pngs_dir: ./images/exports/
+          pngs_dir: ./images/exports/howarya/
       - name: Swoop
         uses: ./.github/actions/export-pngs
         with:
           pcb_file: ./pcbs/swoop/swoop.kicad_pcb
-          pngs_dir: ./images/exports/
+          pngs_dir: ./images/exports/swoop/
 
       # UPLOAD ARTIFACTS
       - uses: actions/upload-artifact@v3
         with:
           name: images
-          path: ./images/exports/*
+          path: ./images/exports/**/*
 
       # UPDATE GALLERY
       # - name: Update gallery

@@ -46,7 +46,7 @@ To build and use a Swoop LP you will need:
 * 2× TRRS Jack [PJ-320A] (wired only)
 * 1× USB Cable (depends on your micro-controller choice)
 
-## Swoop MX 🦞
+## Swoop MX / Howarya 🦞
 
 ![](./images/howarya_small.jpg)
 

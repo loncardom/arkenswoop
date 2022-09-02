@@ -35,11 +35,11 @@ To build and use a Swoop LP you will need:
 * 1× PCB Kit
 * 2× promicro compatible boards or 2 nice!nanos.
 * 34× Kailh Choc v1 switches
-* 34× SK6812 Mini-E RGB SMD Leds
+* 34× SK6812 Mini-E RGB SMD Leds (optional; not recommended for wireless)
 * 34× keycaps
 * 2× side-scrolling encoders
 * 2× OLED LCD Display 128x32 SSD1306 (optional)
-* 2× reset switches (optional; [B3U-1000P(M)](https://github.com/davidphilipbarr/Sweep/issues/20))
+* 2× reset switches (optional; B3U-1000P(M))
 * Some little rubber feet/bumpers
 * 2× power switches (wireless only; MSK 12C02)
 * 2× lipo batteries (wireless only; 301230 or 301228)
@@ -77,7 +77,7 @@ To build and use a Swoop MX you will need:
 * 34-36× keycaps
 * 2× Rotary encoders & knobs (optional)
 * 2× OLED LCD Display 128x32 SSD1306 (optional)
-* 2× reset switches (optional; [B3U-1000P(M)](https://github.com/davidphilipbarr/Sweep/issues/20))
+* 2× reset switches (optional; B3U-1000P(M))
 * Some little rubber feet/bumpers
 * 2× power switches (wireless only; MSK 12C02)
 * 2× lipo batteries (wireless only; 301230 or 301228)

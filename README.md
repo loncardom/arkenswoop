@@ -20,13 +20,13 @@ A WIP fork of [jimmerricks's Swoop](https://github.com/jimmerricks/swoop), which
 
 To build and use an Arkenswoop you will need:
 
-* 1× PCB Kit
-* 1× back plate kit (optional)
+* 1× PCB Kit (1.6mm thickness is good)
+* 1× back plate kit (optional, you can go for 1.2mm thickness)
 * 2× promicro compatible boards or 2 nice!nanos.
 * 34× Kailh Choc v1 switches
 * 34× SK6812 Mini-E RGB SMD Leds (optional; not recommended for wireless)
 * 34× keycaps
-* 2× side-scrolling encoders
+* 2× side-scrolling encoders EVQWGD001
 * 2× OLED LCD Display 128x32 SSD1306 (optional)
 * 2× reset switches (optional; B3U-1000P(M))
 * Some little rubber feet/bumpers (a minimum of 4 on each side)
@@ -39,4 +39,8 @@ To build and use an Arkenswoop you will need:
 ### Todo
 
 - [ ] add hotswap socket support
-- [ ] convert the SMD diodes to through hole diodes to ease soldering
+- [ ] convert the SMD diodes to through hole diodes to ease soldering?
+- [ ] change the holes for mounts: they are too big (for a soldered build)
+- [ ] add mcu/oled cover
+- [ ] move the encoder down about 1mm because it interfers with a keycap
+- [ ] redo the vial KLE to align the keys

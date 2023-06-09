@@ -32,7 +32,7 @@
   #undef RGBLED_SPLIT
   #define RGBLED_SPLIT {1, 1}
 
-  // Use power indicator as caps lock indicator
+  // FIXME Use power indicator as caps lock indicator
   /*#define LED_CAPS_LOCK_PIN 24
   #define LED_PIN_ON_STATE 0*/
 #else

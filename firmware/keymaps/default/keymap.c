@@ -1,4 +1,4 @@
-/* Copyright 2022 James White <jamesmnw@gmail.com>
+/* Copyright 2023 Alexandre Plateau <lexplt.dev@gmail.com>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -14,40 +14,6 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 #include QMK_KEYBOARD_H
-
-#define LED_INTENSITY 25
-
-void keyboard_post_init_user(void) {
-    // Initialize RGB to static black
-    rgblight_enable_noeeprom();
-    rgblight_sethsv_noeeprom(HSV_BLACK);
-    rgblight_mode_noeeprom(RGBLIGHT_MODE_STATIC_LIGHT);
-}
-
-void housekeeping_task_user(void) {
-    switch (get_highest_layer(layer_state | default_layer_state)) {
-        case 0:
-            // Default layer
-            rgblight_setrgb_at(RGB_BLACK, 0);
-            break;
-        case 1:
-            // Symbols
-            rgblight_setrgb_at(0, 0, LED_INTENSITY, 0);
-            break;
-        case 2:
-            // French macros
-            rgblight_setrgb_at(0, LED_INTENSITY, 0, 0);
-            break;
-        case 3:
-            // Nav
-            rgblight_setrgb_at(LED_INTENSITY, 0, 0, 0);
-            break;
-        case 4:
-            // Numpad
-            rgblight_setrgb_at(LED_INTENSITY, 0, LED_INTENSITY, 0);
-            break;
-    }
-}
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   [0] = LAYOUT_split_3x5_3(

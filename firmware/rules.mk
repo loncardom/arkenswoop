@@ -1,6 +1,8 @@
 # Build Options
 #   change yes to no to disable
 
+SRC += arkenswoop.c
+
 # MCU name
 MCU = atmega32u4
 
@@ -9,7 +11,6 @@ BOOTLOADER = caterina
 
 # Compile for the Liatris
 CONVERT_TO = promicro_rp2040
-MCU_LIATRIS = yes
 ENCODER_ENABLE = yes
 
 BOOTMAGIC_ENABLE = yes      # Enable Bootmagic Lite

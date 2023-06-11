@@ -1,20 +1,20 @@
-# Swoop
+# Arkenswoop
 
-![Swoop](https://i.imgur.com/mMlmEsdh.jpg)
+![Arkenswoop](../images/arkenswoop.jpg)
 
-*The Swoop is an open source split keyboard based on the Ferris/Sweep.*
+*The Arkenswoop is an open source split keyboard based on the Swoop, itself based on the Ferris/Sweep.*
 
-* Keyboard Maintainer: [Jimmerricks](https://github.com/jimmerricks)
-* Hardware Supported: *Swoop MX, Swoop LP + Pro-micro or equivalent*
-* Hardware Availability: [*Swoop Repository*](https://github.com/jimmerricks/swoop)
+* Keyboard Maintainer: [SuperFola](https://github.com/SuperFola)
+* Hardware Supported: *Arkenswoop + Pro-micro or equivalent*
+* Hardware Availability: [*Arkenswoop Repository*](https://github.com/SuperFola/arkenswoop)
 
 Make example for this keyboard (after setting up your build environment):
 
-    make bluebell/swoop:default
+    make arkenswoop:default
 
 Flashing example for this keyboard:
 
-    make bluebell/swoop:default:avrdude-split-right
+    make arkenswoop:default:avrdude-split-right
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 

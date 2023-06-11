@@ -1,4 +1,4 @@
-/* Copyright 2022 James White <jamesmnw@gmail.com>
+/* Copyright 2023 Alexandre Plateau <lexplt.dev@gmail.com>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -15,41 +15,19 @@
  */
 #pragma once
 
-#define MCU_LIATRIS
-
 // OLED driver
 #ifdef OLED_DRIVER_ENABLE
   #define OLED_DISPLAY_128X32
   #define OLED_TIMEOUT 30000
 #endif
 
-#ifdef MCU_LIATRIS
-  // Liatris led configuration
-  #undef RGB_DI_PIN
-  #define RGB_DI_PIN 25
-  #undef RGBLED_NUM
-  #define RGBLED_NUM 2
-  #undef RGBLED_SPLIT
-  #define RGBLED_SPLIT {1, 1}
-
-  // FIXME Use power indicator as caps lock indicator
-  /*#define LED_CAPS_LOCK_PIN 24
-  #define LED_PIN_ON_STATE 0*/
-#else
-  // RGB underglow and per key can not be used with the Liatris MCU if the MCU led is used
-  #define RGBLIGHT_EFFECT_RAINBOW_SWIRL
-  #define RGBLIGHT_EFFECT_RAINBOW_MOOD
-  #define RGBLIGHT_EFFECT_STATIC_GRADIENT
-  #define RGBLIGHT_EFFECT_BREATHING
-  #define RGBLED_NUM 36
-  #define RGBLED_SPLIT \
-        { 18, 18 }
-  #define RGBLIGHT_SPLIT
-  #define RGBLIGHT_HUE_STEP 10
-  #define RGBLIGHT_SAT_STEP 17
-  #define RGBLIGHT_VAL_STEP 17
-  #define RGBLIGHT_SLEEP
-#endif
+// Liatris led configuration
+#undef RGB_DI_PIN
+#define RGB_DI_PIN 25
+#undef RGBLED_NUM
+#define RGBLED_NUM 2
+#undef RGBLED_SPLIT
+#define RGBLED_SPLIT {1, 1}
 
 /* Debounce reduces chatter (unintended double-presses) - set 0 if debouncing is not needed */
 #define DEBOUNCE 5

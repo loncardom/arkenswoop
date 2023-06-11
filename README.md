@@ -1,5 +1,7 @@
 # Arkenswoop
 
+![Fully assembled Arkenswoop](images/build/full_build.jpg)
+
 A WIP fork of [jimmerricks's Swoop](https://github.com/jimmerricks/swoop), which is a fork of [David Barr's Sweep](https://github.com/davidphilipbarr/Sweep), which is itself based on the fabulous [Ferris by Pierre Chevalier](https://github.com/pierrechevalier83/ferris).
 
 | Front | Back |

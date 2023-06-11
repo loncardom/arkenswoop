@@ -5,7 +5,7 @@
 *The Arkenswoop is an open source split keyboard based on the Swoop, itself based on the Ferris/Sweep.*
 
 * Keyboard Maintainer: [SuperFola](https://github.com/SuperFola)
-* Hardware Supported: *Arkenswoop + Pro-micro or equivalent*
+* Hardware Supported: *Arkenswoop + Liatris*
 * Hardware Availability: [*Arkenswoop Repository*](https://github.com/SuperFola/arkenswoop)
 
 Make example for this keyboard (after setting up your build environment):

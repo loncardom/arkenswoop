@@ -1,7 +1,7 @@
 # Build Options
 #   change yes to no to disable
 
-SRC += arkenswoop.c
+SRC += rgb.c
 
 # MCU name
 MCU = atmega32u4

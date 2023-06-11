@@ -15,6 +15,8 @@
  */
 #pragma once
 
+//#include "config_common.h"
+
 // OLED driver
 #ifdef OLED_DRIVER_ENABLE
   #define OLED_DISPLAY_128X32
@@ -28,6 +30,10 @@
 #define RGBLED_NUM 2
 #undef RGBLED_SPLIT
 #define RGBLED_SPLIT {1, 1}
+
+// Use power indicator as caps lock indicator
+#define LED_CAPS_LOCK_PIN 24
+#define LED_PIN_ON_STATE 0
 
 /* Debounce reduces chatter (unintended double-presses) - set 0 if debouncing is not needed */
 #define DEBOUNCE 5

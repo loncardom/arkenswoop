@@ -39,6 +39,5 @@ To build and use an Arkenswoop you will need:
 ### Todo
 
 - [ ] add hotswap socket support
-- [ ] change the holes for mounts: they are too big (for a soldered build)
 - [ ] add mcu/oled cover
 - [ ] redo the vial KLE to align the keys

@@ -44,5 +44,4 @@ To build and use an Arkenswoop you will need:
 - [ ] convert the SMD diodes to through hole diodes to ease soldering?
 - [ ] change the holes for mounts: they are too big (for a soldered build)
 - [ ] add mcu/oled cover
-- [ ] move the encoder down about 1mm because it interfers with a keycap
 - [ ] redo the vial KLE to align the keys

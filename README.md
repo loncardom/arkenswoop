@@ -11,6 +11,7 @@ A WIP fork of [jimmerricks's Swoop](https://github.com/jimmerricks/swoop), which
 ### Features
 
 ⭕ Low profile Kailh Choc switches  
+⭕ Hotswap  
 ⭕ Dual side-scrolling encoder  
 ⭕ Oled screens  
 ⭕ Power switch for battery management  
@@ -25,6 +26,7 @@ To build and use an Arkenswoop you will need:
 * 1× back plate kit (optional, you can go for 1.2mm thickness)
 * 2× promicro compatible boards or 2 nice!nanos.
 * 34× Kailh Choc v1 switches
+* 34× Kailh Choc hotswap sockets (PG1350)
 * 34× keycaps
 * 2× side-scrolling encoders EVQWGD001
 * 2× OLED LCD Display 128x32 SSD1306 (optional)
@@ -38,6 +40,5 @@ To build and use an Arkenswoop you will need:
 
 ### Todo
 
-- [ ] add hotswap socket support
 - [ ] add mcu/oled cover
 - [ ] redo the vial KLE to align the keys

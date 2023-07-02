@@ -15,7 +15,7 @@
  */
 #pragma once
 
-//#include "config_common.h"
+#include "config_common.h"
 
 // OLED driver
 #ifdef OLED_DRIVER_ENABLE

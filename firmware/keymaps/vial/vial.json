@@ -4,6 +4,15 @@
         "rows": 8,
         "cols": 5
     },
+    "keycodes": [
+        "via/keycodes"
+    ],
+    "menus": [
+        "via/keymap",
+        "via/layouts",
+        "via/macros",
+        "via/save_load"
+    ],
     "layouts": {
         "keymap": [
             [

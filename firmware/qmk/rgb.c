@@ -32,6 +32,10 @@ layer_state_t layer_state_set_kb(layer_state_t state) {
     // Numpad
     rgblight_setrgb_at(LED_INTENSITY, 0, LED_INTENSITY, 0);
     break;
+  case 5:
+    // Gaming
+    rgblight_setrgb_at(LED_INTENSITY, LED_INTENSITY, 0, 0);
+    break;
   default:
     rgblight_setrgb_at(0, 0, 0, 0);
     break;

@@ -41,4 +41,3 @@ To build and use an Arkenswoop you will need:
 ### Todo
 
 - [ ] add mcu/oled cover
-- [ ] redo the vial KLE to align the keys

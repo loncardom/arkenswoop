@@ -1,6 +1,6 @@
 # Arkenswoop
 
-![Fully assembled Arkenswoop](images/build/full_build.jpg)
+![Fully assembled Arkenswoop](images/full_build.jpeg)
 
 A WIP fork of [jimmerricks's Swoop](https://github.com/jimmerricks/swoop), which is a fork of [David Barr's Sweep](https://github.com/davidphilipbarr/Sweep), which is itself based on the fabulous [Ferris by Pierre Chevalier](https://github.com/pierrechevalier83/ferris).
 
@@ -41,3 +41,14 @@ To build and use an Arkenswoop you will need:
 ### Todo
 
 - [ ] add mcu/oled cover
+
+## Images
+
+<details>
+    <summary>Assembled Arkenswoop 0.6.0</summary>
+    <img src="images/full_build.jpeg">
+</details>
+<details>
+    <summary>Back of assembled Arkenswoop 0.6.0</summary>
+    <img src="images/full_build_back.jpeg">
+</details>

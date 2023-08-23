@@ -22,25 +22,22 @@ A WIP fork of [jimmerricks's Swoop](https://github.com/jimmerricks/swoop), which
 
 To build and use an Arkenswoop you will need:
 
-* 1× PCB Kit (1.6mm thickness is good)
-* 1× back plate kit (optional, you can go for 1.2mm thickness)
+* 1× PCB Kit (1.6mm thickness when ordering)
+* 1× back plate kit (optional, 1.2mm thickness when ordering)
 * 2× promicro compatible boards or 2 nice!nanos.
 * 34× Kailh Choc v1 switches
 * 34× Kailh Choc hotswap sockets (PG1350)
 * 34× keycaps
 * 2× side-scrolling encoders EVQWGD001
 * 2× OLED LCD Display 128x32 SSD1306 (optional)
+* 2× MCU cover (optional, 1mm thickness when ordering)
 * 2× reset switches (optional; B3U-1000P(M))
-* Some little rubber feet/bumpers (a minimum of 4 on each side)
+* Some little rubber feet/bumpers (minimum of 4 on each side)
 * 2× power switches (wireless only; MSK 12C02)
 * 2× lipo batteries (wireless only; 301230 or 301228)
 * 1× TRRS (not TRS!) cable (wired only)
 * 2× TRRS Jack [PJ-320A] (wired only)
 * 1× USB Cable (depends on your micro-controller choice)
-
-### Todo
-
-- [ ] add mcu/oled cover
 
 ## Images
 
@@ -75,16 +72,17 @@ An Arkenswoop inspired keyboard with a twist: the Z and / keys are moved to the 
 
 To build and use an Altenswoop you will need:
 
-* 1× PCB Kit (1.6mm thickness is good)
-* 1× back plate kit (optional, you can go for 1.2mm thickness)
+* 1× PCB Kit (1.6mm thickness when ordering)
+* 1× back plate kit (optional, 1.2mm thickness when ordering)
 * 2× promicro compatible boards or 2 nice!nanos.
 * 34× Kailh Choc v1 switches
 * 34× Kailh Choc hotswap sockets (PG1350)
 * 34× keycaps
 * 2× side-scrolling encoders EVQWGD001
 * 2× OLED LCD Display 128x32 SSD1306 (optional)
+* 2× MCU cover (optional, 1mm thickness when ordering)
 * 2× reset switches (optional; B3U-1000P(M))
-* Some little rubber feet/bumpers (a minimum of 4 on each side)
+* Some little rubber feet/bumpers (minimum of 4 on each side)
 * 2× power switches (wireless only; MSK 12C02)
 * 2× lipo batteries (wireless only; 301230 or 301228)
 * 1× TRRS (not TRS!) cable (wired only)

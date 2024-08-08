@@ -12,6 +12,7 @@ BOOTLOADER = caterina
 # Compile for the Liatris
 CONVERT_TO = promicro_rp2040
 ENCODER_ENABLE = yes
+CAPS_WORD_ENABLE = yes
 
 CONSOLE_ENABLE = no         # Console for debug
 COMMAND_ENABLE = no         # Commands for debug and configuration

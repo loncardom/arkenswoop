@@ -10,7 +10,6 @@
     },
     "development_board": "liatris",
     "indicators": {
-        "caps_lock": 24,
         "on_state": 0
     },
     "ws2812": {

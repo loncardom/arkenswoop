@@ -28,6 +28,7 @@ To build and use an Arkenswoop you will need:
 * 34× Kailh Choc v1 switches
 * 34× Kailh Choc hotswap sockets (PG1350)
 * 34× keycaps
+* 34× SMD diodes (1N4148W, SOD-123)
 * 2× side-scrolling encoders EVQWGD001
 * 2× OLED LCD Display 128x32 SSD1306 (optional)
 * 2× MCU cover (optional, 1mm thickness when ordering)
@@ -78,6 +79,7 @@ To build and use an Altenswoop you will need:
 * 34× Kailh Choc v1 switches
 * 34× Kailh Choc hotswap sockets (PG1350)
 * 34× keycaps
+* 34× SMD diodes (1N4148W, SOD-123)
 * 2× side-scrolling encoders EVQWGD001
 * 2× OLED LCD Display 128x32 SSD1306 (optional)
 * 2× MCU cover (optional, 1mm thickness when ordering)
